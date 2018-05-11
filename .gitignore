@@ -1,0 +1,7 @@
+.idea
+*.log
+*.out
+*.xml
+*.zip
+*.iml
+*.lock
